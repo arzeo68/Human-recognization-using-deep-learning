@@ -17,7 +17,7 @@ Both SSD and YOLO use one-stage detector strategy.
 
 ## Usage:-  
 
-### 1. Download the models
+### 1. Download the model
     $ sudo chmod +x models.sh
     $ ./models.sh
 
