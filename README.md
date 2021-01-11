@@ -31,5 +31,5 @@ Both SSD and YOLO use one-stage detector strategy.
     
 ## Performance
     with a GTX 1060 6Go and a intel i5 4670k
-    with this version I am on average between 27 and 32 fps
+    on this version I am on average between 27 and 32 fps
     so if you record in 30 fps you will be able to perform a real time analysis.
