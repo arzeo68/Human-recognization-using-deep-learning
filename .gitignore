@@ -1,0 +1,4 @@
+*.mp4
+*.avi
+cmake-build-debug
+.idea
